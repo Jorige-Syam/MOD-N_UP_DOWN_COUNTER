@@ -33,7 +33,7 @@ For this project:
 MOD-N-Up-Down-Counter/
 │
 ├── modn_updown_counter.v
-├── tb1.v
+├── testbench.v
 └── README.md
 ```
 
@@ -41,7 +41,7 @@ MOD-N-Up-Down-Counter/
 
 This file contains the main RTL design of the MOD-N Up/Down Counter.
 
-### tb1.v
+### testbench.v
 
 This file contains the Verilog testbench used to verify the counter.
 
